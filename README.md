@@ -13,6 +13,11 @@
 
 ## API Documentation:
 - [https://documenter.getpostman.com/view/18254245/2s93eeQpTn](https://documenter.getpostman.com/view/18254245/2s93eeQpTn)
+## Postman Document
+![](https://i.imgur.com/hk4dIUv.png)
+### Rapidoc OpenAPI Document
+![](https://i.imgur.com/47PhTx3.png)
+
 
 ## Test Cases for this project (Link is given below): 
 - https://docs.google.com/spreadsheets/
@@ -21,5 +26,11 @@
 - https://docs.google.com/spreadsheets/
 
 ## Newman Report:
+![](https://i.imgur.com/whqdEyK.png)
 
+![](https://i.imgur.com/oc54qDo.png)
 
+## Allure Report:
+![](https://i.imgur.com/AyFDd73.png)
+
+![](https://i.imgur.com/ZwN0Uz0.png)
