@@ -19,11 +19,11 @@
 ![](https://i.imgur.com/47PhTx3.png)
 
 
-## Test Cases for this project (Link is given below): 
+<!-- ## Test Cases for this project (Link is given below): 
 - https://docs.google.com/spreadsheets/
 
 ## Bug report for this project (Link is given below):
-- https://docs.google.com/spreadsheets/
+- https://docs.google.com/spreadsheets/ -->
 
 ## Newman Report:
 ![](https://i.imgur.com/X7zOEwa.png)
