@@ -26,9 +26,9 @@
 - https://docs.google.com/spreadsheets/
 
 ## Newman Report:
-![](https://i.imgur.com/whqdEyK.png)
+![](https://i.imgur.com/X7zOEwa.png)
 
-![](https://i.imgur.com/oc54qDo.png)
+![](https://i.imgur.com/GBLDRWz.png)
 
 ## Allure Report:
 ![](https://i.imgur.com/AyFDd73.png)
