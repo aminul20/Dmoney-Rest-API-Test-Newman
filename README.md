@@ -13,10 +13,12 @@
 
 ## API Documentation:
 - [https://documenter.getpostman.com/view/18254245/2s93eeQpTn](https://documenter.getpostman.com/view/18254245/2s93eeQpTn)
-## Postman Document
+## Postman Documentation
 ![](https://i.imgur.com/hk4dIUv.png)
-### Rapidoc OpenAPI Document
+### Rapidoc OpenAPI Documentation
 ![](https://i.imgur.com/47PhTx3.png)
+### Swagger OpenAPI Documentation
+![](https://i.imgur.com/ADr4vY2.png)
 
 
 <!-- ## Test Cases for this project (Link is given below): 
